@@ -59,4 +59,4 @@
 
 * 邮件：(avenyao#qq.com, 把#换成@)
 * QQ群：297679499
-* 微信：![](http://c-scm.com/images/wx_img.jpg)
+* 微信：![width=120](http://c-scm.com/images/wx_img.jpg)
